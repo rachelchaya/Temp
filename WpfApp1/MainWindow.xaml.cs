@@ -33,6 +33,7 @@ namespace WpfApp1
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+            int j = 5;
             DateLabel.Content = DateTime.Now.ToString("G");
         }
     }
