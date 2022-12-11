@@ -28,7 +28,7 @@ namespace WpfApp1
 
         private void WrapPanel_Loaded(object sender, RoutedEventArgs e)
         {
-            int x = 0;
+            int t = 0;
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
