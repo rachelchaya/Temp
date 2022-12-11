@@ -28,6 +28,11 @@ namespace WpfApp1
 
         private void WrapPanel_Loaded(object sender, RoutedEventArgs e)
         {
+            
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
             DateLabel.Content = DateTime.Now.ToString();
         }
     }
