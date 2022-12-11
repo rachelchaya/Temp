@@ -8,6 +8,5 @@
         Title="MainWindow" Height="450" Width="800">
     <WrapPanel Loaded="WrapPanel_Loaded">
         <Label Name="DateLabel" Grid.ColumnSpan="3"></Label>
-        <Button Click="Button_Click"></Button>
-</WrapPanel>
+    </WrapPanel>
 </Window>
